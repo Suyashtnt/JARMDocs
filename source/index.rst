@@ -1,4 +1,4 @@
-Welcome to JARM's documentation!
+Welcome to JARM's documentation!  .. image:: .static/ruby.png
 ================================
 
 
@@ -8,7 +8,7 @@ Welcome to JARM's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    :glob:
 

@@ -1,2 +1,0 @@
-# JARMDocs
- Docs for JARM

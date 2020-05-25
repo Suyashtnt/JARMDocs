@@ -1,0 +1,10 @@
+Getting Started
+===============
+Simply mine some rubies
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+   :glob:
+
+   GettingStarted/*

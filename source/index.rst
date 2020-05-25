@@ -1,10 +1,13 @@
-Welcome to JARM's documentation!  .. image:: .static/ruby.png
+Welcome to JARM's documentation!  
 ================================
 
 
  this is the Docs and how to get started 
- with JARM                               
-
+ with JARM         
+                       
+.. image:: .static/ruby.png
+  :width: 400
+  :alt: Alternative text
 
 
 .. toctree::

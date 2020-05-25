@@ -1,0 +1,27 @@
+Welcome to JARM's documentation!  
+================================
+
+
+ this is the Docs and how to get started 
+ with JARM         
+                       
+.. image:: .static/ruby.png
+  :width: 400
+  :alt: Alternative text
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+   :glob:
+
+   Getting_Started
+   
+   Biomes
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

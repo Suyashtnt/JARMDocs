@@ -19,7 +19,6 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
-import sphinx_bootstrap_theme
 
 
 project = u'JARM'

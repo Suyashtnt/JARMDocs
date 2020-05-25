@@ -16,7 +16,7 @@ Welcome to JARM's documentation!
    :glob:
 
    Getting_Started
-   
+   blocks
    Biomes
 
 Indices and tables

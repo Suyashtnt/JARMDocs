@@ -18,6 +18,7 @@ Welcome to JARM's documentation!
    Getting_Started
    blocks
    Biomes
+   Items
 
 Indices and tables
 ==================

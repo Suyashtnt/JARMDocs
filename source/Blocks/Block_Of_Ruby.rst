@@ -1,7 +1,7 @@
 =============
 Block of ruby
 =============
-A block of ruby is a way to store your rubies.
+A block of ruby is a way to store your :doc:`rubies <../Items/ruby>`.
 beacons do not work with this yet, support soon ;)
 
 .. image:: ../.static/ruby_block.png

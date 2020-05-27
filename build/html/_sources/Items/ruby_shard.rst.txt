@@ -12,4 +12,6 @@ When held, the player holding the Shard will get weakness.
 
 Crafting Recipe
 ---------------
+all you need is to put 1 `ruby <../Items/ruby>` in the crafting table.
+
 (still need to add picture)

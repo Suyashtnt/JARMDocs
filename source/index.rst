@@ -20,7 +20,7 @@ Welcome to JARM's documentation!
    blocks
    Biomes
    
-
+(this documentation is in beta and currently only 1 person is pdating it in his freetime, so dont expect there to be most thing nor most details yet)
 Indices and tables
 ==================
 

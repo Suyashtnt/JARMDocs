@@ -21,7 +21,7 @@ Welcome to JARM's documentation!
    Armor
    Biomes
    
-(this documentation is in beta and currently only 1 person is pdating it in his freetime, so dont expect there to be most thing nor most details yet)
+(this documentation is in beta and currently only 1 person is updating it in his freetime, so dont expect there to be most thing nor most details yet, but it will be added in like 1 week)
 Indices and tables
 ==================
 

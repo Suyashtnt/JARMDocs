@@ -1,3 +1,4 @@
+================================
 Welcome to JARM's documentation!  
 ================================
 
@@ -11,9 +12,9 @@ Welcome to JARM's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :glob:
+   :maxdepth: 2 
+   :caption: Contents: 
+   :glob: 
 
    Getting_Started
    Items

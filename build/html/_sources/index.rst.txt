@@ -8,7 +8,7 @@ Welcome to JARM's documentation!
                        
 .. image:: .static/ruby.png
   :width: 400
-  :alt: Alternative text
+  :alt: A ruby
 
 
 .. toctree::
@@ -18,7 +18,8 @@ Welcome to JARM's documentation!
 
    Getting_Started
    Items
-   blocks
+   Blocks
+   Tools
    Armor
    Biomes
    Dimensions

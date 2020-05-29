@@ -4,7 +4,10 @@ Welcome to JARM's documentation!
 
 
  this is the Docs and how to get started 
- with JARM         
+ with JARM 
+
+   .. note:: this documentation is in beta and currently only 1 person is updating it in his freetime, so dont expect there to be most thing nor most details yet, but it will be added in like 1 week
+       
                        
 .. image:: .static/ruby.png
   :width: 400
@@ -24,7 +27,6 @@ Welcome to JARM's documentation!
    Biomes
    Dimensions
    
-(this documentation is in beta and currently only 1 person is updating it in his freetime, so dont expect there to be most thing nor most details yet, but it will be added in like 1 week)
 
 Indices and tables
 ==================

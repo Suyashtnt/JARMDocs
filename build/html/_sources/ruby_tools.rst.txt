@@ -3,7 +3,7 @@ Ruby tools
 ==========
 
 .. toctree::
-   :maxdepth: 2 
+   :maxdepth: 1
    :caption: All the ruby tools: 
    :glob: 
 

@@ -12,4 +12,6 @@ Crafting
 --------
 The top row of th crafting table is all :doc:`rubies <../../Items/ruby>`, then in the middle and bottom center are sticks
 
-(I NED PICS)
+.. image:: ../../.static/ruby_pickaxe_crafting.png
+  :width: 500
+  :alt: A ruby Pickaxe

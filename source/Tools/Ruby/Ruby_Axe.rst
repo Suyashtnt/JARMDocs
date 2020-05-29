@@ -6,8 +6,11 @@ A ruby axe is an axe, slightly weaker than diamond
 
 .. image:: ../../.static/ruby_axe.png
   :width: 250
-  :alt: A ruby Pickaxe
+  :alt: A ruby axe
 
 Crafting
 --------
-Look at the non-existant pic below
+
+.. image:: ../../.static/ruby_axe_crafting.png
+  :width: 500
+  :alt: The ruby axe crafting recipe

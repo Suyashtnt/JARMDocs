@@ -12,4 +12,6 @@ Crafting
 --------
 Simply put 2 rubies ontop of a stick
 
-(i ned images)
+.. image:: ../../.static/ruby_sword_crafting.png
+  :width: 500
+  :alt: A ruby picaxe

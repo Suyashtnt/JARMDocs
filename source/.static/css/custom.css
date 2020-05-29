@@ -95,9 +95,9 @@
         --content-background-color: #000000;
         /* Decrease the logo opacity when using the dark theme to be less distracting */
         --logo-opacity: 0.85;
-        --navbar-background-color: #070707;
-        --navbar-background-color-hover: #252729;
-        --navbar-background-color-active: #111417;
+        --navbar-background-color: #0c0c0c;
+        --navbar-background-color-hover: #171718;
+        --navbar-background-color-active: #0f0f0f;
         --navbar-current-background-color: #2d3033;
         --navbar-current-background-color-hover: #3a3d41;
         --navbar-current-background-color-active: #1c1e20;
@@ -105,9 +105,9 @@
         --navbar-level-2-color: #ccc;
         --navbar-level-3-color: #bbb;
         --navbar-heading-color: #2c2626;
-        --navbar-scrollbar-color: #1d1415;
-        --navbar-scrollbar-hover-color: #963e48;
-        --navbar-scrollbar-active-color: #5f3034;
+        --navbar-scrollbar-color: #141414;
+        --navbar-scrollbar-hover-color: #2e2e2e;
+        --navbar-scrollbar-active-color: #292929;
         --navbar-scrollbar-background: #1c1e21;
 
         --link-color: #8cf;
@@ -202,7 +202,7 @@ h6,
 legend,
 .rst-content .toctree-wrapper p.caption {
     /* Use a lighter font for headers (Medium instead of Bold) */
-    font-weight: 500;
+    font-weight: 450;
 }
 
 .rst-content div.figure p.caption {

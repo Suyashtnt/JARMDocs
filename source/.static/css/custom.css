@@ -6,86 +6,88 @@
  */
 
  /* Default (light) theme colors */
- :root {
-    --body-color: #404040;
-    --content-wrap-background-color: #efefef;
-    --content-background-color: #fcfcfc;
-    --logo-opacity: 1.0;
-    --navbar-background-color: #333f67;
-    --navbar-background-color-hover: #29355c;
-    --navbar-background-color-active: #212d51;
-    --navbar-current-background-color: #212d51;
-    --navbar-current-background-color-hover: #182343;
-    --navbar-current-background-color-active: #131e3b;
-    --navbar-level-1-color: #c3e3ff;
-    --navbar-level-2-color: #b8d6f0;
-    --navbar-level-3-color: #a3c4e1;
-    --navbar-heading-color: #bebebe;
-    --navbar-scrollbar-color: #d45a66;
-    --navbar-scrollbar-hover-color: #b14550;
-    --navbar-scrollbar-active-color: #72383e;
-    --navbar-scrollbar-background: #131e2b;
+    :root {
+        --body-color: rgba(255, 255, 255, 0.85);
+        --content-wrap-background-color: #202326;
+        --content-background-color: #000000;
+        /* Decrease the logo opacity when using the dark theme to be less distracting */
+        --logo-opacity: 0.85;
+        --navbar-background-color: #0c0c0c;
+        --navbar-background-color-hover: #171718;
+        --navbar-background-color-active: #0f0f0f;
+        --navbar-current-background-color: #2d3033;
+        --navbar-current-background-color-hover: #3a3d41;
+        --navbar-current-background-color-active: #1c1e20;
+        --navbar-level-1-color: rgb(141, 141, 141);
+        --navbar-level-2-color: #ccc;
+        --navbar-level-3-color: #bbb;
+        --navbar-heading-color: #2c2626;
+        --navbar-scrollbar-color: #141414;
+        --navbar-scrollbar-hover-color: #2e2e2e;
+        --navbar-scrollbar-active-color: #292929;
+        --navbar-scrollbar-background: #1c1e21;
 
-    --link-color: #2980b9;
-    --link-color-hover: #3091d1;
-    --link-color-active: #105078;
-    --link-color-visited: #9b59b6;
+        --link-color: #8cf;
+        --link-color-hover: #9df;
+        --link-color-active: #6ad;
+        --link-color-visited: #cb99f6;
 
-    --hr-color: #e1e4e5;
-    --table-row-odd-background-color: #f3f6f6;
-    --code-background-color: #fff;
-    --code-border-color: #e1e4e5;
-    --code-literal-color: #d04c60;
-    --input-background-color: #fcfcfc;
-    --input-focus-border-color: #5f8cff;
+        --hr-color: #555;
+        --table-row-odd-background-color: #3b3e41;
+        --code-background-color: #434649;
+        --code-border-color: #505356;
+        --code-literal-color: #faa;
+        --input-background-color: #333537;
+        --input-focus-border-color: #5f8cff;
 
-    --search-input-background-color: #e6eef3; /* derived from --input-background-color */
-    --search-match-color: #2c6b96; /* derived from --link-color */
-    --search-match-background-color: #e3f2fd; /* derived from --link-color */
-    --search-active-color: #efefef;
-    --search-credits-background-color: #333f67; /* derived from --navbar-background-color */
-    --search-credits-color: #b3b3b3; /* derived from --footer-color */
-    --search-credits-link-color: #4392c5; /* derived from --link-color */
+        --search-input-background-color: #43464a; /* derived from --input-background-color */
+        --search-match-color: #52b4ff; /* derived from --link-color */
+        --search-match-background-color: #414c56; /* derived from --link-color */
+        --search-active-color: #202326;
+        --search-credits-background-color: #202123; /* derived from --navbar-background-color */
+        --search-credits-color: #6b6b6b; /* derived from --footer-color */
+        --search-credits-link-color: #628fb1; /* derived from --link-color */
 
-    --highlight-background-color: #f5ffe1;
-    --highlight-default-color: #404040;
-    --highlight-comment-color: #408090;
-    --highlight-keyword-color: #007020;
-    --highlight-keyword2-color: #902000;
-    --highlight-number-color: #208050;
-    --highlight-decorator-color: #4070a0;
-    --highlight-type-color: #007020;
-    --highlight-type2-color: #0e84b5;
-    --highlight-function-color: #06287e;
-    --highlight-operator-color: #666666;
-    --highlight-string-color: #4070a0;
+        /* Colors taken from the Godot script editor with the Adaptive theme */
+        --highlight-background-color: #202531;
+        --highlight-default-color: rgba(255, 255, 255, 0.85);
+        --highlight-comment-color: rgba(204, 206, 211, 0.5);
+        --highlight-keyword-color: #ff7085;
+        --highlight-keyword2-color: #42ffc2;
+        --highlight-number-color: #a1ffe0;
+        --highlight-decorator-color: #abc8ff;
+        --highlight-type-color: #8effda;
+        --highlight-type2-color: #c6ffed;
+        --highlight-function-color: #57b3ff;
+        --highlight-operator-color: #abc8ff;
+        --highlight-string-color: #ffeca1;
 
-    --admonition-note-background-color: #e7f2fa;
-    --admonition-note-color: #404040;
-    --admonition-note-title-background-color: #6ab0de;
-    --admonition-note-title-color: #fff;
-    --admonition-attention-background-color: #ffedcc;
-    --admonition-attention-color: #404040;
-    --admonition-attention-title-background-color: #f0b37e;
-    --admonition-attention-title-color: #fff;
-    --admonition-danger-background-color: #fcf3f2;
-    --admonition-danger-color: #404040;
-    --admonition-danger-title-background-color: #e9a499;
-    --admonition-danger-title-color: #fff;
-    --admonition-tip-background-color: #dbfaf4;
-    --admonition-tip-color: #404040;
-    --admonition-tip-title-background-color: #1abc9c;
-    --admonition-tip-title-color: #fff;
+        --admonition-note-background-color: #303d4f;
+        --admonition-note-color: #bfeeff;
+        --admonition-note-title-background-color: #305070;
+        --admonition-note-title-color: #bfefff;
+        --admonition-attention-background-color: #444033;
+        --admonition-attention-color: #ffeeaf;
+        --admonition-attention-title-background-color: #665022;
+        --admonition-attention-title-color: #ffeeaf;
+        --admonition-danger-background-color: #433;
+        --admonition-danger-color: #fcc;
+        --admonition-danger-title-background-color: #633;
+        --admonition-danger-title-color: #fcc;
+        --admonition-tip-background-color: #28382d;
+        --admonition-tip-color: #dfd;
+        --admonition-tip-title-background-color: #336648;
+        --admonition-tip-title-color: #dfd;
 
-    --kbd-background-color: #fafbfc;
-    --kbd-outline-color: #d1d5da;
-    --kbd-shadow-color: #b0b7bf;
-    --kbd-text-color: #444d56;
+        --kbd-background-color: #595b5d;
+        --kbd-outline-color: #3d4144;
+        --kbd-shadow-color: #1e2023;
+        --kbd-text-color: #e2f2ff;
 
-    --btn-neutral-background-color: #f3f6f6;
-    --btn-neutral-hover-background-color: #e5ebeb;
-    --footer-color: #808080;
-}
+        --btn-neutral-background-color: #404040;
+        --btn-neutral-hover-background-color: #505050;
+        --footer-color: #aaa;
+    }
 
 /* Dark theme colors */
 @media (prefers-color-scheme: dark) {

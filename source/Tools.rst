@@ -7,4 +7,5 @@ Tools added by JARM
    :caption: Here are all the tools added by JARM: 
    :glob: 
 
-   Tools/*/*
+   Strenthend_Diamond_tools
+   ruby_tools

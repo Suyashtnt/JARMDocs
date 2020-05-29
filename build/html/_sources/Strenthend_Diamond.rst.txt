@@ -1,0 +1,10 @@
+=========================
+Strengthened Diamond armor
+========================
+
+.. toctree::
+   :maxdepth: 2 
+   :caption: All the Strengthened diamond armor: 
+   :glob: 
+
+   Tools/Strengthend_Diamond/*

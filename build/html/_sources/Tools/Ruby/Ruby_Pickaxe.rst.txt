@@ -10,6 +10,6 @@ The pickaxe in the toolset of ruby items, takes slightly more time to mine than 
 
 Crafting
 --------
-The top row of th crafting table is all rubies, then in the middle and bottom center are sticks
+The top row of th crafting table is all :doc:`rubies <../../Items/ruby>`, then in the middle and bottom center are sticks
 
 (I NED PICS)

@@ -11,4 +11,18 @@ Crafting
 --------
 put :doc:`rubies <../Items/ruby>` in the shape of the armor piece you want, simple
 
-(Images needed)
+.. image:: ../.static/ruby_helmet_crafting.png
+  :width: 500
+  :alt: A ruby set piece
+
+.. image:: ../.static/ruby_chestplate_crafting.png
+  :width: 500
+  :alt: A ruby set piece
+
+.. image:: ../.static/ruby_leggings_crafting.png
+  :width: 500
+  :alt: A ruby set piece
+
+.. image:: ../.static/ruby_boots_crafting.png
+  :width: 500
+  :alt: A ruby set piece

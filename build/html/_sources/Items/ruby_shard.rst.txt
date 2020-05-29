@@ -14,4 +14,6 @@ Crafting Recipe
 ---------------
 all you need is to put 1 :doc:`ruby <../Items/ruby>` in the crafting table.
 
-(still need to add picture)
+.. image:: ../.static/ruby_shard_crafting.png
+  :width: 500
+  :alt: The ruby shard crafting recipe

@@ -3,7 +3,7 @@ Strengthened Diamond tools
 ==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2 
    :caption: All the Strengthened diamond tools: 
    :glob: 
 

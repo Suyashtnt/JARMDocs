@@ -12,4 +12,4 @@ why the hell would you make one. Seriously, WHY? We have it anyways for you psyc
 
 Crafting
 --------
-**NO**. Why would you even **want** to make it
+**NO**. Why would you even **want** to make it(eventually i will add it.)

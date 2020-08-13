@@ -901,3 +901,8 @@ kbd, .kbd {
 .wy-menu.wy-menu-vertical::-webkit-scrollbar-thumb:active {
     background-color: var(--navbar-scrollbar-active-color);
 }
+
+.img-pxl img {
+    -ms-interpolation-mode:nearest-neighbor;
+    image-rendering: pixelated;
+}

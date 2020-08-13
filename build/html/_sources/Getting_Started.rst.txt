@@ -1,6 +1,6 @@
 Getting Started
 ===============
-Simply mine some rubies
+Simply mine some :doc:`Rubies <Items/ruby>`.
 
 .. toctree::
    :maxdepth: 3

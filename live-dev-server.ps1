@@ -9,6 +9,7 @@ Write-Host "Downloading and installing pswatch"
 
 Import-Module pswatch
 
+conda activate jarmdocs
 $location = Get-Location
 
 Write-Host "done, watching"

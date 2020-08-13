@@ -13,16 +13,16 @@ put :doc:`rubies <../Items/ruby>` in the shape of the armor piece you want, simp
 
 .. image:: ../.static/ruby_helmet_crafting.png
   :width: 500
-  :alt: A ruby set piece
+  :alt: Ruby helmet crafting recipe
 
 .. image:: ../.static/ruby_chestplate_crafting.png
   :width: 500
-  :alt: A ruby set piece
+  :alt: Ruby Chestplate crafting recipe
 
 .. image:: ../.static/ruby_leggings_crafting.png
   :width: 500
-  :alt: A ruby set piece
+  :alt: Ruby leggings crafting recipe
 
 .. image:: ../.static/ruby_boots_crafting.png
   :width: 500
-  :alt: A ruby set piece
+  :alt: Ruby boots crafting recipe
